@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-19T14:26:13.563Z" agent="5.0 (X11)" etag="tk250fovWS_rl52jKwRf" version="18.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-19T14:26:24.226Z" agent="5.0 (X11)" etag="H01Qp05fRjVYig6ZFMZy" version="18.0.8" type="github">
   <diagram id="EPbxtQS6GG19Ibggtc_J" name="Page-1">
     <mxGraphModel dx="2146" dy="668" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -62,7 +62,7 @@
         <mxCell id="iIPIdTKwsIsLFaUF8BY1-39" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="NCT4_nXy-JNPNW2KPSOs-1">
           <mxGeometry y="150" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="iIPIdTKwsIsLFaUF8BY1-40" value="stock" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;align=left;spacingLeft=6;" vertex="1" parent="iIPIdTKwsIsLFaUF8BY1-39">
+        <mxCell id="iIPIdTKwsIsLFaUF8BY1-40" value="Stock" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;align=left;spacingLeft=6;" vertex="1" parent="iIPIdTKwsIsLFaUF8BY1-39">
           <mxGeometry width="150" height="30" as="geometry">
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -117,7 +117,7 @@
         <mxCell id="NCT4_nXy-JNPNW2KPSOs-65" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="NCT4_nXy-JNPNW2KPSOs-58" vertex="1">
           <mxGeometry y="120" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NCT4_nXy-JNPNW2KPSOs-66" value="amount" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;align=left;spacingLeft=6;" parent="NCT4_nXy-JNPNW2KPSOs-65" vertex="1">
+        <mxCell id="NCT4_nXy-JNPNW2KPSOs-66" value="Amount" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;align=left;spacingLeft=6;" parent="NCT4_nXy-JNPNW2KPSOs-65" vertex="1">
           <mxGeometry width="150" height="30" as="geometry">
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
